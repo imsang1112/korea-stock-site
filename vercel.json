@@ -1,5 +1,5 @@
 {
-  "builds": [my-framework] build --output public"
+  "builds": [
     {
       "src": "app.py",
       "use": "@vercel/python"
