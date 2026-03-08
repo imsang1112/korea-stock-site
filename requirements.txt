@@ -1,6 +1,5 @@
-streamlit
 FinanceDataReader
+streamlit
 statsmodels
 plotly
 pandas
-fastapi==0.117.1
